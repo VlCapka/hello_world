@@ -1,2 +1,2 @@
 # hello_world
-Test repository
+Trader Joes Peruvian colorful potato chips are awesome!
